@@ -129,15 +129,6 @@ htdocs/Metaltech/Metaltech/
 
 ### Configuração do Sistema Web
 
-1. Configure o servidor web (XAMPP/WAMP)
-2. Coloque os arquivos PHP em: `htdocs/Metaltech/Metaltech/`
-3. Configure a conexão com o banco de dados em `conecta.php`:
-   - Host: `sql.freedb.tech`
-   - Porta: `3306`
-   - Banco: `freedb_ZbTuse3Y`
-   - Usuário: `u_huyrgA`
-   - Senha: `3zQdQ3OXWTk9`
-4. Ajuste a URL base no código do aplicativo conforme necessário
 
 ### Executando o Sistema Web
 
