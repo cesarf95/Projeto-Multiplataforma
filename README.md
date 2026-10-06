@@ -125,18 +125,7 @@ htdocs/Metaltech/Metaltech/
 1. Crie um banco de dados MySQL
 2. Crie a tabela de ocorrências com a seguinte estrutura:
 
-```sql
-CREATE TABLE ocorrencias (
-    id INT AUTO_INCREMENT PRIMARY KEY,
-    usuario VARCHAR(100) NOT NULL,
-    perfil VARCHAR(50) NOT NULL,
-    maquina VARCHAR(100) NOT NULL,
-    codigo_erro VARCHAR(50) NOT NULL,
-    descricao_erro TEXT NOT NULL,
-    data_hora DATETIME NOT NULL,
-    status VARCHAR(50) DEFAULT 'Aberto'
-);
-```
+
 
 ### Configuração do Sistema Web
 
